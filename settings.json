@@ -1,3 +1,24 @@
 {
-
+	"sites": [
+		{
+			"baseUrl": "https://archive.org/download/Atari2600VcsRomCollectionromHunterV11",
+			"directoryToSave": "2600"
+		},
+		{
+			"baseUrl": "http://archive.org/download/No-Intro-Collection_2016-01-03/Nintendo-NintendoEntertainmentSystem.zip",
+			"directoryToSave": "NES"
+		},
+		{
+			"baseUrl": "http://archive.org/download/No-Intro-Collection_2015-03-03/Nintendo%20-%20Nintendo%2064.zip",
+			"directoryToSave": "N64"
+		},
+		{
+			"baseUrl": "http://archive.org/download/No-Intro-Collection_2016-01-03/Sega-MegaDrive-Genesis.zip",
+			"directoryToSave": "genesis"
+		},
+		{
+			"baseUrl": "http://archive.org/download/No-Intro-Collection_2015-03-03",
+			"directoryToSave": "SNES"
+		}
+	]
 }
